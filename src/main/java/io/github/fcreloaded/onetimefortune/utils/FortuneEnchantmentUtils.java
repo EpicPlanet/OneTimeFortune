@@ -57,7 +57,7 @@ public class FortuneEnchantmentUtils {
             return false;
         }
     }
-    
+
     /**
      * Returns whether pickaxe fortune enchantment applies at the material.
      * @author Final Child

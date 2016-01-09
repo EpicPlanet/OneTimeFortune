@@ -87,5 +87,4 @@ public class FortuneRemovedEvent extends Event implements Cancellable {
     public void setCancelled(boolean isCancelled) {
         this.isCancelled = isCancelled;
     }
-
 }
