@@ -1,0 +1,6 @@
+name: OneTimeFortune
+version: 1.0
+description: Makes the fortune enchantment disappear after a use.
+author: Final Child
+website: http://cafe.naver.com/serverguide/
+main: io.github.fcreloaded.onetimefortune.OneTimeFortune
