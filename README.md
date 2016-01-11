@@ -1,3 +1,5 @@
+http://fcreloaded.github.io/OneTimeFortune/
+
 # OneTimeFortune
 Makes the fortune enchantment disappear after a use.
 
