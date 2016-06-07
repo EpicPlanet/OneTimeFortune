@@ -1,4 +1,4 @@
-http://fcreloaded.github.io/OneTimeFortune/
+http://finalchild.github.io/OneTimeFortune/
 
 # OneTimeFortune
 Makes the fortune enchantment disappear after a use.
